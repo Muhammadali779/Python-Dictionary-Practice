@@ -92,7 +92,7 @@ def get_emails_of_older_than(data: dict, age: int) -> list[str]:
 
 
 
-
+# 5- functionni tushunmadim
 def sort_users_by_age(data: dict, descending: bool = False) -> list[dict]:
     """
     Sorts users by age in ascending or descending order.
@@ -156,7 +156,7 @@ def get_average_age(data: dict) -> float:
         
 
 
-
+#  8- functionni tushunmadim
 def group_users_by_nationality(data: dict) -> dict:
     """
     Groups and counts users by their nationality.
@@ -245,7 +245,7 @@ def find_users_in_timezone(data: dict, offset: str) -> list[dict]:
 
 
 
-
+# 12 - functionni tushunmadim
 def get_registered_before_year(data: dict, year: int) -> list[dict]:
     """
     Returns users who registered before a given year.
